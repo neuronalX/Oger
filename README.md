@@ -1,6 +1,6 @@
 # Oger
 
-## DR;TL
+## TL;DR
 Oger is a Python 2 toolbox mainly used for Reservoir Computing neural networks, such as Echo State Networks (ESN) and Liquid State Machines (LSM).
 
 It was developped during the European FP7 Organic project (2009-2012) focused on Reservoir Computing.
