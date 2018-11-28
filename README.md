@@ -26,7 +26,7 @@ The original paper describing Oger is [available here](https://www.researchgate.
 ## Current
 
 ### Currently maintained Reservoir Computing toolbox
-[Here](https://github.com/neuronalX/FunkyReservoir) you can find a simple "toolbox" on Reservoir computing which is made with pure Python (no dependencies but numpy and matplotlib).
+[Here](https://github.com/neuronalX/FunkyReservoir) you can find a simple "toolbox" on Reservoir Computing (mainly about ESN) which is made with pure Python (no dependencies but numpy and matplotlib).
 
 ### Tutorial
 You can find a tutorial here about the [Oger toolbox](http://www.nilsschaetti.ch/2018/01/30/introduction-reservoir-computing-2-oger-toolbox/).
