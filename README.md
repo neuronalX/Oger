@@ -5,7 +5,7 @@ Oger is a Python 2 toolbox mainly used for Reservoir Computing neural networks, 
 
 It was developped during the European FP7 Organic project (2009-2012) focused on Reservoir Computing.
 
-The Oger toolbox is no longer available or maintained.
+The Oger toolbox is no longer maintained.
 
 I provide the original code available with the original license (LGPL).
 
@@ -25,6 +25,9 @@ The original paper describing Oger is [available here](https://www.researchgate.
 
 ## Current
 
+### Repository of Oger no longer maintained
+The development version of the Oger repository is still available at [Benjamin Schrauwen's bitbucket repository](https://bitbucket.org/benjamin_schrauwen/organic-reservoir-computing-engine/downloads/) (for how long still?). The last update is from April 2012.
+
 ### Currently maintained Reservoir Computing toolbox
 [Here](https://github.com/neuronalX/FunkyReservoir) you can find a simple "toolbox" on Reservoir Computing (mainly about ESN) which is made with pure Python (no dependencies but numpy and matplotlib).
 
@@ -32,6 +35,6 @@ The original paper describing Oger is [available here](https://www.researchgate.
 You can find a tutorial here about the [Oger toolbox](http://www.nilsschaetti.ch/2018/01/30/introduction-reservoir-computing-2-oger-toolbox/).
 
 ### Extended Oger versions
-You can find another extended versions of the toolbox below.
-- [nschaetti's repository](https://github.com/nschaetti/Oger), but I don't know if previous codes are still compatible with this one.
+You can find another extended versions of the toolbox below. I don't know if these extended versions are compatible with codes developped for the original Oger.
+- [nschaetti's repository](https://github.com/nschaetti/Oger)
 - [tilemmpon's repository](https://github.com/tilemmpon/Extended-OGER)
