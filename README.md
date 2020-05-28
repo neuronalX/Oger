@@ -12,9 +12,9 @@ I provide the original code available with the original license (LGPL).
 
 ## Why do I provide the Oger toolbox?
 I am not the author of this toolbox, but I participated (as a PhD student) to the european Organic FP7 project which develpped it.
-As I previously [developped code](https://github.com/neuronalX/HinautDominey2013_PLoS_ONE) using this toolbox (that is published as supplementary material of a [PLoS ONE paper](https://doi.org/10.1371/journal.pone.0052946)) I want to that my code is still executable today with the original toolbox.
+As I previously [developped code](https://github.com/neuronalX/HinautDominey2013_PLoS_ONE) using this toolbox in a study (published as supplementary material of a [PLoS ONE paper](https://doi.org/10.1371/journal.pone.0052946)) I want my code to be still executable today with the original toolbox.
 
-That is why I copy/pasted the version of the code I was using for my papers (early/mid 2012), which is probably close to the latest stable version (with some bug corrected maybe).
+That's why I copy/pasted the version of the Oger code that I was using for my papers (early/mid 2012), which is probably close to the latest stable version.
 
 ## Original paper describing the toolbox
 The original paper describing Oger is [available here](https://www.researchgate.net/publication/262356589_Oger_Modular_Learning_Architectures_For_Large-Scale_Sequential_Processing).
