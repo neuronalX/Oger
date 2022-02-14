@@ -26,10 +26,10 @@ The original paper describing Oger is [available here](https://www.researchgate.
 ## Current
 
 ### Repository of Oger no longer maintained
-The development version of the Oger repository is still available at [Benjamin Schrauwen's bitbucket repository](https://bitbucket.org/benjamin_schrauwen/organic-reservoir-computing-engine/downloads/) (for how long still?). The last update is from April 2012.
+The development version of the Oger repository is (EDIT: was) still available at [Benjamin Schrauwen's bitbucket repository](https://bitbucket.org/benjamin_schrauwen/organic-reservoir-computing-engine/downloads/) (for how long still?). The last update is from April 2012.
 
 ### Currently maintained Reservoir Computing toolbox
-[Here](https://github.com/neuronalX/FunkyReservoir) you can find a simple "toolbox" on Reservoir Computing (mainly about ESN) which is made with pure Python (no dependencies but numpy and matplotlib).
+[Here](https://github.com/reservoirpy/reservoirpy) you can find a new and flexible library on Reservoir Computing (mainly about ESN) which is made with pure Python (no dependencies but numpy/scipy/matplotlib).
 
 ### Tutorial
 You can find a tutorial here about the [Oger toolbox](http://www.nilsschaetti.ch/2018/01/30/introduction-reservoir-computing-2-oger-toolbox/).
